@@ -1,7 +1,8 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_sqlite_app/Database.dart';
 import 'dart:math' as math;
+import 'package:flutter/material.dart';
+
 import 'ClientModel.dart';
+import 'Database.dart';
 
 void main() => runApp(MaterialApp(home: MyApp()));
 

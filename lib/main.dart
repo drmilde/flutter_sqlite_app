@@ -14,9 +14,9 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   // data for testing
   List<Client> testClients = [
-    Client(firstName: "Raouf", lastName: "Rahiche", blocked: false),
-    Client(firstName: "Zaki", lastName: "oun", blocked: true),
-    Client(firstName: "oussama", lastName: "ali", blocked: false),
+    Client(firstName: "Bauer", lastName: "Bruno", blocked: false),
+    Client(firstName: "Mechthild", lastName: "Meier", blocked: true),
+    Client(firstName: "Anneliese", lastName: "Allgeier", blocked: false),
   ];
 
   @override

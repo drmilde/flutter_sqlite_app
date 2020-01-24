@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
     Client(firstName: "Anneliese", lastName: "Allgeier", blocked: false),
     Client(firstName: "Rosemarie", lastName: "Rettich", blocked: false),
     Client(firstName: "Sabine", lastName: "Sauerbier", blocked: false),
-    Client(firstName: "Andrea", lastName: "Autobahn", blocked: false),
+    Client(firstName: "Trude", lastName: "Traumhaft", blocked: true),
   ];
 
   @override
